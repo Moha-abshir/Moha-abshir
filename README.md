@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Abshirow
 
-<!--
-**Moha-abshir/Moha-abshir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Frontend Development**  
+💻 Tech I work with: HTML, CSS, JavaScript, Git  
+🚀 Goals: Build and deploy my portfolio and real-world UI components  
+📫 Contact me: moabshir06@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-abshir001)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Projects
+- [Portfolio Website](https://github.com/Moha-abshir/portfolio)
+
+---
+
+### 📊 GitHub Stats
+
+![Moha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moha-abshir&show_icons=true&theme=radical)
+
+---
