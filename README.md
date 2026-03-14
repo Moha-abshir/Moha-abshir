@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a learning project: creating a system where students that study the same courses can share resources, commenting on blogs shared by other students and also where they can host live sessions to chat and discuss about their courses.  <br><br>🤝 I'm looking to collaborate on web development projects, especially ones that help me explore and use JavaScript libraries better.  <br><br>👐 I'm looking for help with advanced JavaScript concepts, APIs, and working with modern JS libraries.  <br><br>🍀 I'm currently learning JavaScript (almost done and planning to dive into React soon), SQL, and Java for backend development.  <br><br>💬 Ask me about JavaScript and SQL — I’m pretty comfortable with both.  <br><br>⚡ Fun fact: I enjoy repetitive coding and debugging my own projects. Before coding, I was really into football and novel reading.  <br>
+🔭 I'm currently not working on nothing<br>
 
 
 ## 🌐 Socials:
