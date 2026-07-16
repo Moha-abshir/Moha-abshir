@@ -1,5 +1,5 @@
-```text
-                           ... .:.                 <span style="color: #ff5733;">MOHAMMED ABSHIR</span>
+```diff                                           
+                           ... .:.                 -MOHAMMED ABSHIR
                      .-+++**####***++=.            
                    .:+######%%%%%%%####*+-.        Status: ....................... CS Student @ Egerton University
                  .+######%%%%%%%%%%%%%%%%#*.       OS: ........................... Wndows 11, Arch Linux
