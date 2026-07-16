@@ -1,5 +1,5 @@
 ```text
-                           ... .:.                 MOHAMMED ABSHIR
+                           ... .:.                 $${\color{orange}\text{MOHAMMED ABSHIR}}$$
                      .-+++**####***++=.            
                    .:+######%%%%%%%####*+-.        Status: ....................... CS Student @ Egerton University
                  .+######%%%%%%%%%%%%%%%%#*.       OS: ........................... Wndows 11, Arch Linux
