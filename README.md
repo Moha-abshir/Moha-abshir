@@ -1,17 +1,17 @@
 ```text
-                           ... .:.                 mohammed@abshir
+                           ... .:.                 MOHAMMED ABSHIR
                      .-+++**####***++=.            
                    .:+######%%%%%%%####*+-.        Status: ....................... CS Student @ Egerton University
-                 .+######%%%%%%%%%%%%%%%%#*.       OS: ........................... Arch Linux + Hyprland
-                -*#%%%%%#*+==--=+++*#%%%%%%#+:     Editor: ....................... VS Code
+                 .+######%%%%%%%%%%%%%%%%#*.       OS: ........................... Wndows 11, Arch Linux
+                -*#%%%%%#*+==--=+++*#%%%%%%#+:     Editor: ....................... VS Code,
               .*%%%%%#=-::--==-:::-==+*##%@%%#-    Database IDE: ................. DBeaver
               .*%%%*--:.   .:--.  .-+*****%@%#*.   Notes: ........................ Obsidian
              :*#%%#-::..   .:--...-=+*##+=+%%%#:   
-             .+%%%*---.     ......:-=+**=:.*%##=   Stack.Frontend: ............... React, Vite, Tailwind CSS
+             .+%%%*---.     ......:-=+**=:.*%##=   Stack.Frontend: ............... React, Angular, TCSS
               +%%#+==-:-+**++==++*##%%%#=..=#%#-   Stack.Backend: ................ Node.js, Express.js
               :%%#*==-+=:=*#+:.=%@#==+*#+:.=#%*.   Stack.Database: ............... PostgreSQL, Redis, IndexedDB
                =%#*+--+=+#**=:.=#%#=*###*-:+##-    
-                =%*=:. ..--:...-+*#*=--=**-**-     Projects.Current: ............. Smart Store POS
+                =%*=:. ..--:...-+*#*=--=**-**-     Projects.Current: ............. Sentinel
               :#*--=:.  .  .:..=*+*#+==+*=:=*%%-   Interests.Topics: ............. Backend Eng, System Design
               :#:+=+-:.   .-+-+#%%%@#****-.-#%%-   Goal: ......................... Become a Full-Stack Engineer
               .=--:+=::....:-:=+***+*#**=:.=%%#.   ----------------- Contact ------------------
@@ -20,12 +20,6 @@
                    :========-:-+#%%%#+::--:        LinkedIn: ..................... mohammed-abshir-141789349
                     -*+==:.. :++*#*#+::-+=.        
                     :+*#**+++**#%%%*++**=-.        --------------- GitHub Stats ---------------
-                    :--=*#%%@@@@%%%%#****-.        Repos: ........................ 19  |  Stars: 2
+                    :--=*#%%@@@@%%%%#****-.        Repos: ........................ 23  |  Stars: 3
                     :=:::---=*%%%@%+:+%%*-=:       Followers: .................... 12  |  Following: 5
 ```
-
-<div align="center">
-
-[![Moha-abshir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moha-abshir&show_icons=true&hide_title=true&hide_border=true&theme=dark)](https://github.com/Moha-abshir)
-
-</div>
